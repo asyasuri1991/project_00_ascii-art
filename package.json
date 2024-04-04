@@ -1,0 +1,18 @@
+{
+  "name": "artcli",
+  "version": "1.0.0",
+  "description": "mt first project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "ascii-art": "^2.8.5"
+  }
+}
